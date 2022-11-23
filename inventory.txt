@@ -1,0 +1,23 @@
+2
+Book
+On the study table
+9871230
+false
+500
+09/08/2022
+Amazone
+Science
+C:\Users\heba2\Downloads\download.jpg
+Flower Vase
+On the shelf
+A0ZQ253
+false
+200
+06/08/2022
+DailyGift Store
+Decor
+C:\Users\heba2\OneDrive\Desktop\IMG_20180703_194353-1.jpg
+3
+On the study table
+
+On the shelf
